@@ -241,15 +241,6 @@ Update CSS variables in `styles.css`:
 4. **Push** to the branch (`git push origin feature/AmazingFeature`)
 5. **Open** a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Support
-
-- **Email**: info@civicconnect.com
-- **Phone**: (555) 123-4567
-- **Address**: 123 Community Street, City, State 12345
 
 ## 🙏 Acknowledgments
 
@@ -263,3 +254,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Built with ❤️ for better communities**
 
 *CivicConnect - Empowering communities to report and resolve local issues together.*
+
